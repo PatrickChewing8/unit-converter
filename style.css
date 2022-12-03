@@ -1,6 +1,6 @@
 body {
- margin: 0;
- text-align: center;
+	margin: 0;
+	text-align: center;
 }
 
 .hero {
@@ -20,22 +20,16 @@ h1 {
 	text-align: center;
 }
 
-h2 {
+#input {
 	box-sizing: border-box;
-	width: 117px;
-	height: 83px;
+	width: 100px;
+	height: 50px;
 	left: 217px;
 	top: 101px;
+	margin-bottom: 10px;
 	border: 2px solid #b295ff;
 	border-radius: 5px;
-
- text-align: center;
-	/* text-align: center;
-	border: 1px solid white;
- color: white;
-	border-radius: 6px;
-	height: 50px;
-	width: 200px; */
+	text-align: center;
 }
 
 #convert-btn {
@@ -54,5 +48,5 @@ h2 {
 }
 
 p {
- color: black;
+	color: black;
 }
